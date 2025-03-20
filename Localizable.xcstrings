@@ -1,0 +1,113 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "ADD" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "BADRESPONSEERROR" : {
+
+    },
+    "BASEURLNOTFOUND" : {
+
+    },
+    "CLEARALL" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear All"
+          }
+        }
+      }
+    },
+    "CLIENTERROR" : {
+
+    },
+    "DELETEALL" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete All"
+          }
+        }
+      }
+    },
+    "EDITCIRCLES" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Circles"
+          }
+        }
+      }
+    },
+    "EMPTYDATA" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data is empty !"
+          }
+        }
+      }
+    },
+    "INVALIDDATA" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid Data"
+          }
+        }
+      }
+    },
+    "INVALIDURLERROR" : {
+
+    },
+    "JSONDATAERROR" : {
+
+    },
+    "LOADING" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading"
+          }
+        }
+      }
+    },
+    "PLISTNOFOUND" : {
+
+    },
+    "REDIRECTION" : {
+
+    },
+    "REMOVE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "SERVERERROR" : {
+
+    },
+    "UNKNOWNERROR" : {
+
+    }
+  },
+  "version" : "1.0"
+}

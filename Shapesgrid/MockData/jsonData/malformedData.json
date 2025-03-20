@@ -1,0 +1,16 @@
+{
+   "buttons":[
+      {
+         "name1":"Circle",
+         "draw_path1":"circle",
+      },
+      {
+         "name1":"Square",
+         "draw_path1":"square",
+      },
+      {
+         "name1":"Triangle",
+         "draw_path1":"triangle",
+      },
+   ]
+}

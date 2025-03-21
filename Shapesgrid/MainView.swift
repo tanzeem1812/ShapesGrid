@@ -37,12 +37,12 @@ struct MainView: View {
                             }
                         }
                     } else {
-                        Text("EMPTYDATA")
+                        Text(String(localized:"EMPTYDATA"))
                     }
                 } else if viewModel.state == .loading {
-                    ProgressView("LOADING")
+                    ProgressView(String(localized:"LOADING"))
                 } else if viewModel.state == .error(.invalidData) {
-                    Text("INVALIDDATA")
+                    Text(String(localized:"INVALIDDATA"))
                 }
             }.task {
                 Task {

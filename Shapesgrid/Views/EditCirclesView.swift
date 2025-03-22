@@ -13,7 +13,7 @@ struct EditCirclesView: View {
             Spacer()
      
             Button(String(localized:"ADD")) {
-                viewModel.addShape(type:ShapeType.circle.rawValue)
+                viewModel.addShape(type:ShapeType.circle.toString())
             }
             Spacer()
             
